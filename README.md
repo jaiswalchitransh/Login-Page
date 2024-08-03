@@ -11,6 +11,7 @@
 ## Project Overview
 The given code is a login and signup page in HTML. It follows the HTML5 document structure which includes essential elements such as metadata, specified language, and defined viewport configurations. The visual look is enhanced using internal CSS to style the background, buttons, text inputs, and form elements. The structure adheres to HTML5 standards, dividing the body into header, main, and footer sections. The main section contains the login form, which is centered and includes input fields for username and password, a submit button, a checkbox for automatic login, and a cancel button. Additional functionalities include a "Forgot Password" link and a registration link, ensuring a user-friendly and visually appealing interface.
 
+![alt text](https://github.com/jaiswalchitransh/Login-Page/blob/main/Sample%20Output/Sample%20Output%201.png)
 
 ## Installation
 To set up this project on your local machine, follow these steps:
